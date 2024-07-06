@@ -4,7 +4,7 @@ title: Index
 ---
 
 # Index
-{{ site.time }}
+last rebuilt: {{ site.time }}
 
 ## Posts
 {% for post in site.posts %}
@@ -15,13 +15,3 @@ title: Index
 {% for page in site.pages %}
 * **[{{ page.title }}]({{ page.url }})**
 {% endfor %}
-
-# h1
-
-## h2
-
-### h3
-
-#### h4
-
-##### h5
