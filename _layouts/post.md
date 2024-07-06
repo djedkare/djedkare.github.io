@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# This is a post
+# {{ title }}
 
 {{ content }}
