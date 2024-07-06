@@ -8,12 +8,12 @@ title: Index
 
 ## Posts
 {% for post in site.posts %}
-* **[{{ post.title }}]({{ post.url }})** {{ post.date }}
+* **[{{ post.title }}]({{ post.url }})** {{ post.date | date: "%Y, %b %d" }}
 {% endfor %}
 
 ## Pages
 {% for page in site.pages %}
-* **[{{ page.title }}]({{ page.url }})** {{ page.date }}
+* **[{{ page.title }}]({{ page.url }})**
 {% endfor %}
 
 # h1
