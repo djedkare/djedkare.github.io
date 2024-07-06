@@ -4,7 +4,6 @@ title: Index
 ---
 
 # Index
-last rebuilt: {{ site.time }}
 
 ## Posts
 {% for post in site.posts %}
@@ -15,3 +14,8 @@ last rebuilt: {{ site.time }}
 {% for page in site.pages %}
 * **[{{ page.title }}]({{ page.url }})**
 {% endfor %}
+
+***
+
+
+last rebuilt: {{ site.time }}
