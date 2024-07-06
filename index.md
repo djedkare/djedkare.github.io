@@ -4,4 +4,4 @@ title: Index
 ---
 
 # Index
-asdfindexasdf
+asdfindexasdf {{ site.title | default: titleeeeeee}} {{ site.title | default: titleeeeeee}} {{ site.title | default: titleeeeeee}}
