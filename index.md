@@ -4,4 +4,6 @@ title: Index
 ---
 
 # Index
-asdfindexasdf {{ site.title | default: titleeeeeee}} {{ site.title | default: titleeeeeee}} {{ site.title | default: titleeeeeee}}
+{% for post in site.posts %}
+* [{{ post.title }}]({{ post.url }}) {{ post.excerpt }}
+{% endfor %}
