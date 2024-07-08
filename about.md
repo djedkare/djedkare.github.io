@@ -18,3 +18,5 @@ I study computer science, with a minor in statistics.
 4. Hopefully, by showing my thoughts and code to the world I can get feedback on them.
 
 That is, I don't necessarily write to educate nor think of myself as smarter than the reader. In particular, points 3 and 4 require taking care to mention all the things I struggled with while working on a post.
+
+<a href="{{ site.github.owner_url }}">GitHub</a>
