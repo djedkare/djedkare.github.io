@@ -19,4 +19,6 @@ I study computer science, with a minor in statistics.
 
 That is, I don't necessarily write to educate nor think of myself as smarter than the reader. In particular, points 3 and 4 require taking care to mention all the things I struggled with while working on a post.
 
+## Links
+
 <a href="{{ site.github.owner_url }}">GitHub</a>
