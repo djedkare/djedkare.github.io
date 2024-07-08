@@ -17,4 +17,4 @@ I study computer science, with a minor in statistics.
 3. In art classes for beginners, they encourage you to keep every painting, so that later you'll be able to appreciate your progress. This is important, because we tend to forget about all the little things we used to struggle with, but overcame. Seeing just how far we've come along can be a great source of motivation, and that is of course also true in programming.
 4. Hopefully, by showing my thoughts and code to the world I can get feedback on them.
 
-That is, I don't necessarily write to educate. In particular, points 3 and 4 require taking care to mention all the things I struggled with while working on a post.
+That is, I don't necessarily write to educate and don't think of myself as smarter than the reader. In particular, points 3 and 4 require taking care to mention all the things I struggled with while working on a post.
